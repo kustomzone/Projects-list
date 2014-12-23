@@ -12,6 +12,8 @@
  Source: http://robert.kra.hn/projects/live-programming-with-three-and-webvr
 
                  Demo: http://kustomzone.github.io/liveCoder
+                 
+                       -------------------------------
 
                             "LiveCoder 2" (700kb)
 
